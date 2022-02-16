@@ -10,7 +10,7 @@ namespace Csharp_Training
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Csharp_Training");
+            Console.WriteLine("tutorial 1");
             Console.ReadLine();
         }
     }
