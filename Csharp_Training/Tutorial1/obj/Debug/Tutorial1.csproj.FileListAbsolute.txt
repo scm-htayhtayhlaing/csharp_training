@@ -1,0 +1,7 @@
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Tutorial1\bin\Debug\Tutorial1.exe.config
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Tutorial1\bin\Debug\Tutorial1.exe
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Tutorial1\bin\Debug\Tutorial1.pdb
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Tutorial1\obj\Debug\Tutorial1.csproj.AssemblyReference.cache
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Tutorial1\obj\Debug\Tutorial1.csproj.CoreCompileInputs.cache
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Tutorial1\obj\Debug\Tutorial1.exe
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Tutorial1\obj\Debug\Tutorial1.pdb
