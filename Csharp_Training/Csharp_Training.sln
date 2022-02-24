@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_Training", "Csharp_T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial5", "Tutorial5\Tutorial5.csproj", "{E03B49A8-D3CD-4561-A971-579B0B4F23E4}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial7", "Tutorial7\Tutorial7.csproj", "{7339835D-15A2-490B-8E17-CED8DFF1E887}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial1", "Tutorial1\Tutorial1.csproj", "{318CF981-D866-4682-A720-B6A00D96D76A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +27,11 @@ Global
 		{7339835D-15A2-490B-8E17-CED8DFF1E887}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7339835D-15A2-490B-8E17-CED8DFF1E887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7339835D-15A2-490B-8E17-CED8DFF1E887}.Release|Any CPU.Build.0 = Release|Any CPU
+		
+		{318CF981-D866-4682-A720-B6A00D96D76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318CF981-D866-4682-A720-B6A00D96D76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318CF981-D866-4682-A720-B6A00D96D76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318CF981-D866-4682-A720-B6A00D96D76A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
