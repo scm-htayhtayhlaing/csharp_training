@@ -5,3 +5,10 @@ D:\SCM\Training\2\Csharp_Training\Csharp_Training\obj\Debug\Csharp_Training.cspr
 D:\SCM\Training\2\Csharp_Training\Csharp_Training\obj\Debug\Csharp_Training.csproj.CoreCompileInputs.cache
 D:\SCM\Training\2\Csharp_Training\Csharp_Training\obj\Debug\Csharp_Training.exe
 D:\SCM\Training\2\Csharp_Training\Csharp_Training\obj\Debug\Csharp_Training.pdb
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Csharp_Training\bin\Debug\Csharp_Training.exe.config
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Csharp_Training\bin\Debug\Csharp_Training.exe
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Csharp_Training\bin\Debug\Csharp_Training.pdb
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Csharp_Training\obj\Debug\Csharp_Training.csproj.AssemblyReference.cache
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Csharp_Training\obj\Debug\Csharp_Training.csproj.CoreCompileInputs.cache
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Csharp_Training\obj\Debug\Csharp_Training.exe
+D:\SCM\Training\New folder (2)\csharp_training\Csharp_Training\Csharp_Training\obj\Debug\Csharp_Training.pdb
